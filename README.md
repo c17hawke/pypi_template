@@ -1,1 +1,1 @@
-# IPYNB renderer python package
+# PYPI python package template
